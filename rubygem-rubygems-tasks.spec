@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rubygems-tasks
 Version  : 0.2.4
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/rubygems-tasks-0.2.4.gem
 Source0  : https://rubygems.org/downloads/rubygems-tasks-0.2.4.gem
 Summary  : No detailed summary available
